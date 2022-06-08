@@ -1,2 +1,2 @@
-# soybean-admin-go
-soybean-admin的后端服务go版
+#  admin-api-go
+惊天科技后端服务go版
